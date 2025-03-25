@@ -3,6 +3,7 @@ import unittest
 from browser import Browser
 from pages.login_page import LoginPage, LOGIN_PAGE_URL
 
+
 LOGIN_ERROR_MESSAGE = "Epic sadface: Username and password do not match any user in this service"
 LOCKED_OUT_ERROR_MESSAGE = "Epic sadface: Sorry, this user has been locked out."
 

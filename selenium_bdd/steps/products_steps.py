@@ -1,5 +1,6 @@
 from behave import *
 
+
 @given('I am on the products page')
 def step_impl(context):
     context.login_page.open()

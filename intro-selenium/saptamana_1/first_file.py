@@ -1,6 +1,8 @@
 import time
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+
 
 # Instantiere webdriver de tip Firefox. Variabila driver este de tip WebDriver
 driver = webdriver.Firefox()

@@ -4,6 +4,7 @@ import requests
 
 from requests_folder.generate_token import get_token
 
+
 token = get_token()
 
 def get_api_status():

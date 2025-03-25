@@ -1,9 +1,11 @@
-# Test case 1 - Happy flow log in
 import random
 import time
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+
+
+# Test case 1 - Happy flow log in
 
 # deschid browserul
 driver = webdriver.Firefox()

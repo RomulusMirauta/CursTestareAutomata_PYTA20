@@ -2,6 +2,7 @@ from selenium.webdriver.common.by import By
 
 from pages.base_page import BasePage
 
+
 LOGIN_PAGE_URL = "https://www.saucedemo.com/"
 
 class LoginPage(BasePage):

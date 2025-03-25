@@ -4,6 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webelement import WebElement
 
+
 driver = webdriver.Firefox()
 driver.get("https://primeng.org/dropdown")
 

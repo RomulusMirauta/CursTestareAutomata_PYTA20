@@ -1,6 +1,5 @@
 class Clasa1:
 
-
     def met_1(self):
         pass
 

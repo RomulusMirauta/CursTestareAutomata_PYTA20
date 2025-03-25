@@ -1,5 +1,6 @@
 import requests
 
+
 """
 Exemplu de utilizare a librariei requests
 """

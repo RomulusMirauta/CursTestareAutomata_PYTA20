@@ -41,5 +41,3 @@ class ExplicitWaitDemo(unittest.TestCase):
         wait = WebDriverWait(self.driver, 10)
         wait.until(EC.visibility_of_element_located(locator))
         self.assertTrue(self.driver.find_element(*locator).is_displayed())
-
-

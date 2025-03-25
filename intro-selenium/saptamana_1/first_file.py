@@ -75,6 +75,3 @@ time.sleep(5)
 # driver.find_element(By.TAG_NAME, "button")
 
 driver.quit()
-
-
-

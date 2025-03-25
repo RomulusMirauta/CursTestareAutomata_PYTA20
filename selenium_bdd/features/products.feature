@@ -18,6 +18,3 @@ Feature: Products
 
     #Tema: Test pentru sortare inversa dupa pret
     # + puteti implementa celelalte teste de pe products page (din frameworkul cu unittest)
-
-
-

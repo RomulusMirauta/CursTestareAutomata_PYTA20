@@ -127,4 +127,3 @@ driver.implicitly_wait(5)
 
 wait = WebDriverWait(driver, 10)
 wait.until("...")
-

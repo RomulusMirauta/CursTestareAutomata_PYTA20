@@ -40,6 +40,3 @@ class ProductsPage(BasePage):
 
     def get_cart_item_name(self):
         return self.find(self.ITEM_NAME).text
-
-
-

@@ -54,4 +54,3 @@ class TestWaits(unittest.TestCase):
 
         wait = WebDriverWait(self.driver, 5)
         wait.until(expected_conditions.visibility_of_element_located(locator))
-

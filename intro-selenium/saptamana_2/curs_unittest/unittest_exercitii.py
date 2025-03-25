@@ -91,6 +91,3 @@ class LoginTests(unittest.TestCase):
             return False
         else:
             return True
-
-
-

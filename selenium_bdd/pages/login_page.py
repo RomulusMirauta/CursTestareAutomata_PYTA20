@@ -30,4 +30,3 @@ class LoginPage(BasePage):
 
     def get_login_error_text(self):
         return self.find(self.ERROR_LOGIN).text
-

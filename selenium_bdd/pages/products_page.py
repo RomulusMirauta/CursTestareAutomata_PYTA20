@@ -97,8 +97,3 @@ class ProductsPage(BasePage):
             list_price_numeric.append(float(price))
 
         assert self.is_sorted(list_price_numeric)
-
-
-
-
-

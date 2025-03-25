@@ -30,4 +30,3 @@ Feature: Login
       | user2@gmail.com   | parola1     |
       | user3@hotmail.com | asdsfsdfdsf |
       | user4@yahoo.com   | asdfghjkkll |
-

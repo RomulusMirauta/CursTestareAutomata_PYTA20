@@ -26,4 +26,3 @@ class TestKeys(unittest.TestCase):
         time.sleep(1)
         text_input.send_keys(Keys.DELETE)
         time.sleep(1)
-
